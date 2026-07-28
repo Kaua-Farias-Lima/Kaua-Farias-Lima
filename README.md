@@ -23,3 +23,5 @@ Atualmente concentro meus estudos em desenvolvimento de software utilizando Java
 Meu objetivo é evoluir para uma posição como Desenvolvedor Back-end.
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flagmat&layout=compact&theme=tokyonight"/>
